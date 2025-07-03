@@ -1,20 +1,41 @@
-# 🤖 Codsoft Task 1
+# 🤖 Codsoft Task 3
 
-A simple A landing page web developed as part of the With The use of HTML**CodSoft internship**.
+# 🧮 Basic Calculator Web App
 
-🌐 **Live Demo:** [codsodt-ts1.netlify.app](https://codsodt-ts1.netlify.app/)
+A simple and functional calculator built using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations like addition, subtraction, multiplication, and division through an interactive and responsive UI.,**CodSoft internship**.
+
+🔗 **Live Demo:** [codsodt-ts3.netlify.app](https://codsodt-ts3.netlify.app/)
 
 ---
 
-## 🛠️ Features
-✅ Responsive Design - Adapts seamlessly to all screen sizes — mobile, tablet, and desktop.
+## ✨ Features
 
-🎨 Clean UI - Intuitive and minimalistic interface (Neatly styled buttons, headings, and sections for a smooth user experience.)
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🧼 Clear / Reset functionality  
+- ✅ Responsive layout for mobile and desktop  
+- 🎨 Stylish UI using custom CSS
 
-⚡ Fast & Lightweight - Deployed via Netlify for quick loading and high uptime.
+---
 
-🌐 Hosting & Deployment
-Hosted on Netlify: Live at codsodt-ts1.netlify.app
+## 💻 Tech Stack
 
-Smooth CI/CD via GitHub → Netlify integration.
+- **HTML** – Structure of the calculator
+- **CSS** – Layout, colors, and responsive design
+- **JavaScript** – Core functionality and logic for operations
+
+---
+
+## 📁 Project Structure
+
+```plaintext
+├── index.html        # Calculator layout
+├── style.css         # Styling for calculator
+├── script.js         # Functional logic
+└── README.md         # Documentation
+
+
+
 
